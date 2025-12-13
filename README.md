@@ -9,19 +9,6 @@ Dibangun dengan alat dan teknologi:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-latest-green)
 
 ---
-
-## 📑 Daftar Isi
-
-* [Gambaran Umum](#gambaran-umum)
-* [Memulai](#memulai)
-
-  * [Prasyarat](#prasyarat)
-  * [Instalasi](#instalasi)
-* [Penggunaan](#penggunaan)
-* [Pengujian](#pengujian)
-
----
-
 ## 📌 Gambaran Umum
 
 **DAA_Kelompok6_KelasB** adalah sebuah tools/proyek untuk menyelesaikan dan menganalisis **masalah 0/1 Knapsack** menggunakan beberapa pendekatan algoritma, yaitu **Greedy**, **Dynamic Programming**, dan **Branch and Bound**.
