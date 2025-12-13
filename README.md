@@ -1,7 +1,6 @@
 # DAA_KELOMPOK6_KELASB
 
-**Memberdayakan Pilihan Lebih Cerdas Melalui Keunggulan Optimasi**
-Dibangun dengan alat dan teknologi:
+Menggunakan bahasa dan library:
 
 - ![Python](https://img.shields.io/badge/Python-3.x-blue)  
   Bahasa pemrograman utama yang digunakan dalam implementasi algoritma.
@@ -21,9 +20,9 @@ Dibangun dengan alat dan teknologi:
 ---
 ## 📌 Gambaran Umum
 
-**DAA_Kelompok6_KelasB** adalah sebuah tools/proyek untuk menyelesaikan dan menganalisis **masalah 0/1 Knapsack** menggunakan beberapa pendekatan algoritma, yaitu **Greedy**, **Dynamic Programming**, dan **Branch and Bound**.
+**DAA_Kelompok6_KelasB** adalah project mata kuliah Desain dan Analisis Algothma untuk menyelesaikan dan menganalisis **masalah 0/1 Knapsack** menggunakan beberapa pendekatan algoritma, yaitu **Greedy**, **Dynamic Programming**, dan **Branch and Bound**.
 
-Proyek ini mendukung pembuatan data knapsack secara otomatis serta menyediakan metrik performa yang detail, sehingga sangat cocok digunakan untuk eksperimen, analisis, dan perbandingan algoritma optimasi.
+Project ini mendukung pembuatan data knapsack secara otomatis serta menyediakan metrik performa yang detail, sehingga sangat cocok digunakan untuk eksperimen, analisis, dan perbandingan algoritma optimasi.
 
 ---
 
@@ -104,20 +103,6 @@ Pilihan algoritma yang tersedia:
   ```bash
   python run.py --instance data/knapsack_labA_inv.json --algo bnb
   ```
-
----
-
-## 🧪 Pengujian
-
-Proyek ini menggunakan framework **pytest** untuk pengujian.
-
-Jalankan seluruh test dengan perintah:
-
-```bash
-pytest
-```
-
-Pastikan seluruh dependensi sudah terinstal sebelum menjalankan pengujian.
 
 ---
 
