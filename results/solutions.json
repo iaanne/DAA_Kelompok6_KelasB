@@ -2,220 +2,172 @@
   "greedy": {
     "items": [
       {
-        "id": "LAB-A-021",
-        "value": 14,
+        "id": "LAB-A-010",
+        "value": 21,
         "weight": 2,
-        "density": 7.0
-      },
-      {
-        "id": "LAB-A-029",
-        "value": 12,
-        "weight": 2,
-        "density": 6.0
-      },
-      {
-        "id": "LAB-A-011",
-        "value": 15,
-        "weight": 3,
-        "density": 5.0
-      },
-      {
-        "id": "LAB-A-025",
-        "value": 13,
-        "weight": 3,
-        "density": 4.333333333333333
-      },
-      {
-        "id": "LAB-A-018",
-        "value": 17,
-        "weight": 4,
-        "density": 4.25
-      },
-      {
-        "id": "LAB-A-006",
-        "value": 16,
-        "weight": 4,
-        "density": 4.0
-      },
-      {
-        "id": "LAB-A-014",
-        "value": 19,
-        "weight": 5,
-        "density": 3.8
-      },
-      {
-        "id": "LAB-A-002",
-        "value": 18,
-        "weight": 5,
-        "density": 3.6
+        "density": 10.5
       },
       {
         "id": "LAB-A-008",
-        "value": 20,
-        "weight": 6,
-        "density": 3.3333333333333335
+        "value": 37,
+        "weight": 4,
+        "density": 9.25
+      },
+      {
+        "id": "LAB-A-014",
+        "value": 26,
+        "weight": 3,
+        "density": 8.666666666666666
       },
       {
         "id": "LAB-A-004",
-        "value": 22,
+        "value": 41,
         "weight": 7,
-        "density": 3.142857142857143
+        "density": 5.857142857142857
       },
       {
-        "id": "LAB-A-001",
-        "value": 25,
-        "weight": 8,
-        "density": 3.125
+        "id": "LAB-A-012",
+        "value": 33,
+        "weight": 6,
+        "density": 5.5
+      },
+      {
+        "id": "LAB-A-015",
+        "value": 10,
+        "weight": 2,
+        "density": 5.0
+      },
+      {
+        "id": "LAB-A-006",
+        "value": 49,
+        "weight": 11,
+        "density": 4.454545454545454
+      },
+      {
+        "id": "LAB-A-011",
+        "value": 20,
+        "weight": 5,
+        "density": 4.0
+      },
+      {
+        "id": "LAB-A-003",
+        "value": 23,
+        "weight": 9,
+        "density": 2.5555555555555554
       }
     ],
-    "total_value": 191,
+    "total_value": 260,
     "total_weight": 49,
     "algorithm": "greedy"
   },
   "dp": {
     "items": [
       {
-        "id": "LAB-A-001",
-        "value": 25,
-        "weight": 8,
-        "density": 3.125
-      },
-      {
-        "id": "LAB-A-002",
-        "value": 18,
-        "weight": 5,
-        "density": 3.6
-      },
-      {
         "id": "LAB-A-004",
-        "value": 22,
+        "value": 41,
         "weight": 7,
-        "density": 3.142857142857143
+        "density": 5.857142857142857
       },
       {
         "id": "LAB-A-006",
-        "value": 16,
+        "value": 49,
+        "weight": 11,
+        "density": 4.454545454545454
+      },
+      {
+        "id": "LAB-A-008",
+        "value": 37,
         "weight": 4,
-        "density": 4.0
+        "density": 9.25
+      },
+      {
+        "id": "LAB-A-010",
+        "value": 21,
+        "weight": 2,
+        "density": 10.5
       },
       {
         "id": "LAB-A-011",
-        "value": 15,
-        "weight": 3,
-        "density": 5.0
+        "value": 20,
+        "weight": 5,
+        "density": 4.0
+      },
+      {
+        "id": "LAB-A-012",
+        "value": 33,
+        "weight": 6,
+        "density": 5.5
+      },
+      {
+        "id": "LAB-A-013",
+        "value": 39,
+        "weight": 11,
+        "density": 3.5454545454545454
       },
       {
         "id": "LAB-A-014",
-        "value": 19,
-        "weight": 5,
-        "density": 3.8
-      },
-      {
-        "id": "LAB-A-016",
-        "value": 21,
-        "weight": 7,
-        "density": 3.0
-      },
-      {
-        "id": "LAB-A-018",
-        "value": 17,
-        "weight": 4,
-        "density": 4.25
-      },
-      {
-        "id": "LAB-A-021",
-        "value": 14,
-        "weight": 2,
-        "density": 7.0
-      },
-      {
-        "id": "LAB-A-025",
-        "value": 13,
+        "value": 26,
         "weight": 3,
-        "density": 4.333333333333333
-      },
-      {
-        "id": "LAB-A-029",
-        "value": 12,
-        "weight": 2,
-        "density": 6.0
+        "density": 8.666666666666666
       }
     ],
-    "total_value": 192,
-    "total_weight": 50,
+    "total_value": 266,
+    "total_weight": 49,
     "algorithm": "dp"
   },
   "bnb": {
     "items": [
       {
-        "id": "LAB-A-021",
-        "value": 14,
+        "id": "LAB-A-010",
+        "value": 21,
         "weight": 2,
-        "density": 7.0
+        "density": 10.5
       },
       {
-        "id": "LAB-A-029",
-        "value": 12,
-        "weight": 2,
-        "density": 6.0
-      },
-      {
-        "id": "LAB-A-011",
-        "value": 15,
-        "weight": 3,
-        "density": 5.0
-      },
-      {
-        "id": "LAB-A-025",
-        "value": 13,
-        "weight": 3,
-        "density": 4.333333333333333
-      },
-      {
-        "id": "LAB-A-018",
-        "value": 17,
+        "id": "LAB-A-008",
+        "value": 37,
         "weight": 4,
-        "density": 4.25
-      },
-      {
-        "id": "LAB-A-006",
-        "value": 16,
-        "weight": 4,
-        "density": 4.0
+        "density": 9.25
       },
       {
         "id": "LAB-A-014",
-        "value": 19,
-        "weight": 5,
-        "density": 3.8
-      },
-      {
-        "id": "LAB-A-002",
-        "value": 18,
-        "weight": 5,
-        "density": 3.6
+        "value": 26,
+        "weight": 3,
+        "density": 8.666666666666666
       },
       {
         "id": "LAB-A-004",
-        "value": 22,
+        "value": 41,
         "weight": 7,
-        "density": 3.142857142857143
+        "density": 5.857142857142857
       },
       {
-        "id": "LAB-A-001",
-        "value": 25,
-        "weight": 8,
-        "density": 3.125
+        "id": "LAB-A-012",
+        "value": 33,
+        "weight": 6,
+        "density": 5.5
       },
       {
-        "id": "LAB-A-016",
-        "value": 21,
-        "weight": 7,
-        "density": 3.0
+        "id": "LAB-A-006",
+        "value": 49,
+        "weight": 11,
+        "density": 4.454545454545454
+      },
+      {
+        "id": "LAB-A-011",
+        "value": 20,
+        "weight": 5,
+        "density": 4.0
+      },
+      {
+        "id": "LAB-A-013",
+        "value": 39,
+        "weight": 11,
+        "density": 3.5454545454545454
       }
     ],
-    "total_value": 192,
-    "total_weight": 50,
+    "total_value": 266,
+    "total_weight": 49,
     "algorithm": "branch_and_bound"
   }
 }
