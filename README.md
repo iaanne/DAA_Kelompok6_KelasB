@@ -1,13 +1,12 @@
 # DAA_KELOMPOK6_KELASB
 
 **Memberdayakan Pilihan Lebih Cerdas Melalui Keunggulan Optimasi**
-
 Dibangun dengan alat dan teknologi:
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![NumPy](https://img.shields.io/badge/NumPy-latest-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-latest-green)
 
+
+
+📑 Daftar Isi
 ---
 ## 📌 Gambaran Umum
 
