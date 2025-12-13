@@ -17,6 +17,10 @@ Proyek ini mendukung pembuatan data knapsack secara otomatis serta menyediakan m
 
 ---
 
+👥 Anggota Kelompok
+Nadhifa Sakha Tri Yasmin – L0224036
+Adrian Farrel Aziz Yatyoga - L0224040
+
 ### ❓ Mengapa DAA_Kelompok6_KelasB?
 
 * 🔁 **Keberagaman Algoritma**
