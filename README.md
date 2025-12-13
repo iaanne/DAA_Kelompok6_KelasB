@@ -3,10 +3,21 @@
 **Memberdayakan Pilihan Lebih Cerdas Melalui Keunggulan Optimasi**
 Dibangun dengan alat dan teknologi:
 
+- ![Python](https://img.shields.io/badge/Python-3.x-blue)  
+  Bahasa pemrograman utama yang digunakan dalam implementasi algoritma.
 
+- ![NumPy](https://img.shields.io/badge/NumPy-latest-orange)  
+  Digunakan untuk operasi numerik dan pengolahan array.
 
+- ![Pandas](https://img.shields.io/badge/Pandas-latest-purple)  
+  Digunakan untuk analisis dan pengelolaan data hasil eksperimen.
 
-📑 Daftar Isi
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-latest-green)  
+  Digunakan untuk visualisasi grafik dan perbandingan performa algoritma.
+
+- ![Seaborn](https://img.shields.io/badge/Seaborn-latest-blueviolet)  
+  Digunakan untuk visualisasi statistik yang lebih informatif.
+
 ---
 ## 📌 Gambaran Umum
 
@@ -17,9 +28,9 @@ Proyek ini mendukung pembuatan data knapsack secara otomatis serta menyediakan m
 ---
 
 ## 👥 Anggota Kelompok
-Nadhifa Sakha Tri Yasmin – L0224036
+- Nadhifa Sakha Tri Yasmin – L0224036
 
-Adrian Farrel Aziz Yatyoga - L0224040
+- Adrian Farrel Aziz Yatyoga - L0224040
 
 ---
 
