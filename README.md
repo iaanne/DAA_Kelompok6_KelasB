@@ -117,10 +117,3 @@ Pastikan seluruh dependensi sudah terinstal sebelum menjalankan pengujian.
 
 ---
 
-📌 **Catatan:**
-Dokumentasi ini sudah siap langsung digunakan sebagai file `README.md` pada repository GitHub untuk kebutuhan tugas mata kuliah **Desain dan Analisis Algoritma (DAA)**.
-
-
-python run.py --instance data/knapsack_labA_inv.json --algo greedy
-python run.py --instance data/knapsack_labA_inv.json --algo dp
-python run.py --instance data/knapsack_labA_inv.json --algo bnb
